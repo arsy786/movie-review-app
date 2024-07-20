@@ -4,7 +4,7 @@ This repository serves as a pointer to the [Movie Review App project on GitLab](
 
 ## About the Project
 
-The Movie Review App is a web application created following the tutorial by freeCodeCamp.org: [Build and Deploy a Full Stack App from Scratch](https://www.youtube.com/watch?v=5PdEmeopJVQ&ab_channel=freeCodeCamp.org). 
+The Movie Review App is a web application created following the tutorial by freeCodeCamp.org: [Full Stack Development with Java Spring Boot, React, and MongoDB – Full Course](https://www.youtube.com/watch?v=5PdEmeopJVQ&ab_channel=freeCodeCamp.org). 
 
 The primary purpose of this project is to develop my DevOps skills, specifically focusing on:
 
