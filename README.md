@@ -1,6 +1,6 @@
 # Movie Review App
 
-This repository serves as a pointer to the [Movie Review App project on GitLab](https://gitlab.com/arsy7861/movie-review-app).
+This repository serves as a pointer to the [Movie Review App](https://gitlab.com/arsy7861/movie-review-app) project on GitLab.
 
 ## About the Project
 
@@ -9,7 +9,7 @@ The Movie Review App is a web application created following the tutorial by free
 The primary purpose of this project is to develop my DevOps skills, specifically focusing on:
 
 - Continuous Integration/Continuous Deployment (CI/CD) pipelines
-- Application deployment on platforms such as Render (Paas) and AWS (IaaS)
+- Application deployment on platforms such as Render (PaaS) and AWS (IaaS)
 
 ## Project Goals
 
